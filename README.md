@@ -1,4 +1,10 @@
 # Schematic
+update 20191120
+2019wimarc.sch Schematic
+2019wimarc.brd PCB
+2019wimarc.xlsx Bill of Material list
+
+
 download files
 download Eagle from https://www.autodesk.com/products/eagle/free-download and install it 
 open files with eagle
